@@ -1,4 +1,3 @@
-MarvinBot
-Simple bot for Discord
+MarvinBot - simple bot for Discord
 
 # NOTHING UNUSUAL HERE
